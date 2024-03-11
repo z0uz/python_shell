@@ -1,0 +1,7 @@
+import pytest
+
+def test_addition():
+    assert 1 + 2 == 3
+
+def test_subtraction():
+    assert 4 - 2 == 2
